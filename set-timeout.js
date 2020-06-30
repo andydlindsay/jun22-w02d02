@@ -4,6 +4,6 @@ const second = () => {
   console.log('catchy catchphrase');
 };
 
-setTimeout(second, 1);
+setTimeout(second, 1000);
 
 console.log('after the timeout');
